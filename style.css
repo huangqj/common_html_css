@@ -60,34 +60,6 @@ a:hover{text-decoration:underline;}
 table.tab{border-collapse:collapse;border-spacing:0;word-wrap:break-word;word-break:break-all;color:#666;font-size:12px;}
 table.tab td,table.tab th{padding:8px;border:1px solid #DDD;}
 table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F7;font-weight:bold;}
-/*tab card*/
-.tab_card_tit{
-	height:30px;
-	overflow:hidden;
-	background:#F0F0F0;
-	padding-left:10px;
-}
-.tab_card_txt{
-	padding:10px 10px;
-	border:1px #C2C2C2 solid;	
-	line-height:25px;
-}
-.tab_card_tit ul li{
-	float: left;
-	display:block;
-	width:83px;
-	height:25px;
-	line-height:25px;
-	margin:6px 5px 0px 0px;
-	text-align:center;
-	font-size:14px;
-	font-weight:bold;
-	color:#000002;
-}
-.tab_card_tit .active{background:url(images/tab_tit_bg.jpg) no-repeat;}
-.tab_card_tit .normal{background:url(images/tab_tit_bg.jpg) -83px 0px no-repeat;}
-.tab_card_tit .active a{color:#000002;}
-.tab_card_tit .normal a{color:#000002;}
 /**/
 .more{float:right;font-size:12px;font-weight:normal;color:#646363;margin-right:10px;}
 .root_div{
