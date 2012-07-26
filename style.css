@@ -115,6 +115,7 @@ table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F
 .nav li{
 	float:left;
 	position:relative;
+	z-index:99;
 }
 .father_nav span.en{display:block;}
 .father_nav a{
